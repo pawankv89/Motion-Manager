@@ -1,13 +1,13 @@
 
-PKCMMotionManager
+Motion Manager
 =========
 
-## PKCMMotionManager.
+## Motion Manager.
 ------------
  Added Some screens here.
  
-[![](https://github.com/pawankv89/PKCMMotionManager/blob/master/Screens/1.png)]
-[![](https://github.com/pawankv89/PKCMMotionManager/blob/master/Screens/2.MP4)]
+![](https://github.com/pawankv89/PKCMMotionManager/blob/master/Screens/1.png)
+![](https://github.com/pawankv89/PKCMMotionManager/blob/master/Screens/2.MP4)
 
 ## Usage
 ------------
